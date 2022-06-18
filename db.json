@@ -5,7 +5,7 @@
       "userId": "1",
       "sessionId": "",
       "photoUrl": [
-        "https://raw.githubusercontent.com/MaxLiu0325/zumi-json-server/master/assets/imgs/matching-1.jpeg",
+        "https://zumi-json-server.herokuapp.com/assets/images/matching-1.jpeg",
         "",
         ""
       ],
@@ -26,7 +26,7 @@
       "userId": "2",
       "sessionId": "",
       "photoUrl": [
-        "https://raw.githubusercontent.com/MaxLiu0325/zumi-json-server/master/assets/imgs/matching-2.jpeg",
+        "https://zumi-json-server.herokuapp.com/assets/images/matching-2.jpeg",
         "",
         ""
       ],
@@ -47,7 +47,7 @@
       "userId": "3",
       "sessionId": "",
       "photoUrl": [
-        "https://raw.githubusercontent.com/MaxLiu0325/zumi-json-server/master/assets/imgs/matching-3.jpeg",
+        "https://zumi-json-server.herokuapp.com/assets/images/matching-3.jpeg",
         "",
         ""
       ],
