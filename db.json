@@ -2,8 +2,8 @@
   "matchings": [
     {
       "id": 1,
-      "userId": "",
-      "sessionId": "ace546b4-a5fc-4875-8049-ac9b97d87052",
+      "userId": "1",
+      "sessionId": "",
       "photoUrl": [
         "https://raw.githubusercontent.com/MaxLiu0325/zumi-json-server/master/assets/imgs/matching-1.jpeg",
         "",
@@ -23,7 +23,7 @@
     },
     {
       "id": 2,
-      "userId": "",
+      "userId": "2",
       "sessionId": "",
       "photoUrl": [
         "https://raw.githubusercontent.com/MaxLiu0325/zumi-json-server/master/assets/imgs/matching-2.jpeg",
@@ -44,7 +44,7 @@
     },
     {
       "id": 3,
-      "userId": "",
+      "userId": "3",
       "sessionId": "",
       "photoUrl": [
         "https://raw.githubusercontent.com/MaxLiu0325/zumi-json-server/master/assets/imgs/matching-3.jpeg",
