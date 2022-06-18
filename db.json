@@ -1,0 +1,55 @@
+{
+    "matchings": [
+        {
+            "id": 1,
+            "userId": "",
+            "sessionId": "",
+            "photoUrl": ["https://github.com/MaxLiu0325/zumi-json-server/matching-1.jpeg", "", ""],
+            "name": "Linda",
+            "description": "嗨嗨，我叫玲玲\n一個居家辦公的上班族\n喜歡唱歌/跳舞/聊天～\n如果你很無聊，歡迎多敲我唷！",
+            "location": "台灣, 台中市",
+            "age": 56,
+            "tags": ["肉食主義", "洗面乳"],
+            "spending": {
+              "voice": 30,
+              "video": 100,
+              "message": 10,
+            },
+            "likes": 10,
+          },
+          {
+            "id": 2,
+            "userId": "",
+            "sessionId": "",
+            "photoUrl": ["https://github.com/MaxLiu0325/zumi-json-server/matching-2.jpeg", "", ""],
+            "name": "Apple",
+            "description": "嗨嗨，我叫玲玲\n一個居家辦公的上班族\n喜歡唱歌/跳舞/聊天～\n如果你很無聊，歡迎多敲我唷！",
+            "location": "台灣, 台中市",
+            "age": 56,
+            "tags": ["肉食主義", "洗面乳"],
+            "spending": {
+              "voice": 30,
+              "video": 100,
+              "message": 10,
+            },
+            "likes": 10,
+          },
+          {
+            "id": 3,
+            "userId": "",
+            "sessionId": "",
+            "photoUrl": ["https://github.com/MaxLiu0325/zumi-json-server/matching-3.jpeg", "", ""],
+            "name": "Vivian",
+            "description": "嗨嗨，我叫玲玲\n一個居家辦公的上班族\n喜歡唱歌/跳舞/聊天～\n如果你很無聊，歡迎多敲我唷！",
+            "location": "台灣, 台中市",
+            "age": 56,
+            "tags": ["肉食主義", "洗面乳"],
+            "spending": {
+              "voice": 30,
+              "video": 100,
+              "message": 10,
+            },
+            "likes": 10,
+          },
+    ]
+}
