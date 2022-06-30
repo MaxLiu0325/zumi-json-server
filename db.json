@@ -12,14 +12,16 @@
       "name": "Linda",
       "description": "嗨嗨，我叫玲玲\n一個居家辦公的上班族\n喜歡唱歌/跳舞/聊天～\n如果你很無聊，歡迎多敲我唷！",
       "location": "台灣, 台中市",
-      "age": 56,
       "tags": ["肉食主義", "洗面乳"],
       "spending": {
         "voice": 30,
         "video": 100,
         "message": 10
       },
-      "likes": 10
+      "likes": 10,
+      "gender": "女性",
+      "birthday": "1999-03-25",
+      "size": "32F/23/33"
     },
     {
       "id": 2,
@@ -33,14 +35,16 @@
       "name": "Apple",
       "description": "嗨嗨，我叫玲玲\n一個居家辦公的上班族\n喜歡唱歌/跳舞/聊天～\n如果你很無聊，歡迎多敲我唷！",
       "location": "台灣, 台中市",
-      "age": 56,
       "tags": ["肉食主義", "洗面乳"],
       "spending": {
         "voice": 30,
         "video": 100,
         "message": 10
       },
-      "likes": 10
+      "likes": 10,
+      "gender": "女性",
+      "birthday": "2002-02-25",
+      "size": "34E/23/33"
     },
     {
       "id": 3,
@@ -54,14 +58,16 @@
       "name": "Vivian",
       "description": "嗨嗨，我叫玲玲\n一個居家辦公的上班族\n喜歡唱歌/跳舞/聊天～\n如果你很無聊，歡迎多敲我唷！",
       "location": "台灣, 台中市",
-      "age": 56,
       "tags": ["肉食主義", "洗面乳"],
       "spending": {
         "voice": 30,
         "video": 100,
         "message": 10
       },
-      "likes": 10
+      "likes": 10,
+      "gender": "女性",
+      "birthday": "2000-02-25",
+      "size": "34G/23/36"
     }
   ]
 }
